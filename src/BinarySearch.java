@@ -56,9 +56,55 @@ public class BinarySearch {
         return ch[low % ch.length];
     }
 
+
+//      floor of a specific no in sorted array
+//      input : 11,22,33,44,55 target : 54
+//      output : 44
+    static int floor(int [] a , int target){
+        int low = 0;
+        int high = a.length - 1;
+
+        while(low <= high){
+
+            int mid = low + (high - low) / 2;
+
+            if(target > a[mid]){
+                low = mid + 1;
+            }else if(target < a[mid]){
+                high = mid - 1;
+            }else{
+                return mid;
+            }
+        }
+        return high;
+    }
+
+//    Celing of a specific no in sorted array
+//    input : 11,22,33,44,55 target : 50
+//    output : 5 index of 55
+
+    static int celing(int [] a , int target){
+        int low = 0;
+        int high = a.length - 1;
+
+        while(low <= high){
+
+            int mid = low + (high - low) / 2;
+
+            if(target > a[mid]){
+                low = mid + 1;
+            }else if(target < a[mid]){
+                high = mid - 1;
+            }else{
+                return mid;
+            }
+        }
+        return low;
+    }
+
     public static void main(String[] args) {
         int [] a = {11,23,34,48,52,66};
 
-        System.out.println(BinSear(a,52 ,0,a.length - 1));
+        System.out.println(celing(a,50));
     }
 }
