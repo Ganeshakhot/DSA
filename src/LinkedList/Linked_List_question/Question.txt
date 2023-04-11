@@ -1,0 +1,22 @@
+Must-Do LinkedList Questions:
+
+
+
+Delete the whole LL -----Done -----
+Middle of a LinkedList -------- Done ----------
+Delete middle of LL --------Done----------
+Sort a LL ---------Done ----------
+find Max Min in LL --------Done-----------
+Reverse a LL ---------Done-----------
+Insert using Recursion  -----------Done ------------
+
+
+Detect Loop & Remove loop from a LL
+
+LinkedList is palindrome
+
+Delete duplicates in sorted LL
+
+Separate even and odd nodes in a LL
+
+The intersection point of two LL
