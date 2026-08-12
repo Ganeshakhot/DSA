@@ -2,8 +2,8 @@ package leetcode_easy_questions;
 
 public class StringQuestions {
 
-    //Is Palendrome
-    public static boolean isPalendrome(String str){
+    //Is Palindrome
+    public static boolean isPalindrome(String str){
         char []ch = str.toCharArray();
 
         int l = 0;
@@ -23,6 +23,6 @@ public class StringQuestions {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPalendrome("gannag"));
+        System.out.println(isPalindrome("gannag"));
     }
 }
