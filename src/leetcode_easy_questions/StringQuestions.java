@@ -1,7 +1,8 @@
-package String_s;
+package leetcode_easy_questions;
 
-public class PalendromeString {
+public class StringQuestions {
 
+    //Is Palendrome
     public static boolean isPalendrome(String str){
         char []ch = str.toCharArray();
 
@@ -22,6 +23,6 @@ public class PalendromeString {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPalendrome("abccba"));
+        System.out.println(isPalendrome("gannag"));
     }
 }

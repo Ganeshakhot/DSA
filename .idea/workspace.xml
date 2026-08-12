@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3a01a99-886b-4470-8276-e2f6125eac03" name="Changes" comment="latest commit">
-      <change afterPath="$PROJECT_DIR$/src/latestGanesh/helloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_easy_questions/StringQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_s/PalendromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_s/PalendromeString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowRun.ShowToolbar": "false",
-    "git-widget-placeholder": "gitconnection",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/DSA/Linked List/LL.java",
     "onboarding.tips.debug.path": "C:/Users/Ganesh/IdeaProjects/DSA/src/Main.java",
     "settings.editor.selected.configurable": "preferences.keymap"
