@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3a01a99-886b-4470-8276-e2f6125eac03" name="Changes" comment="leetcode questions folder added">
+    <list default="true" id="f3a01a99-886b-4470-8276-e2f6125eac03" name="Changes" comment="Roman to integer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode_easy_questions/StringQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode_easy_questions/StringQuestions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1786537369782</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Roman to integer">
+      <created>1786538223355</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1786538223355</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +173,7 @@
     <MESSAGE value="remove unwanted code" />
     <MESSAGE value="latest commit" />
     <MESSAGE value="leetcode questions folder added" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode questions folder added" />
+    <MESSAGE value="Roman to integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Roman to integer" />
   </component>
 </project>
