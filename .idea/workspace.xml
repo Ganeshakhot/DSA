@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3a01a99-886b-4470-8276-e2f6125eac03" name="Changes" comment="Sorting">
-      <change afterPath="$PROJECT_DIR$/src/String_s/PalendromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/First5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/First5.java" afterDir="false" />
-    </list>
+    <list default="true" id="f3a01a99-886b-4470-8276-e2f6125eac03" name="Changes" comment="remove unwanted code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,17 +26,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowRun.ShowToolbar": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/DSA/Linked List/LL.java",
-    "onboarding.tips.debug.path": "C:/Users/Ganesh/IdeaProjects/DSA/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DSA/Linked List/LL.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ganesh/IdeaProjects/DSA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -114,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680851037569</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="remove unwanted code">
+      <created>1786535783770</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1786535783770</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +135,7 @@
     <MESSAGE value="linear search" />
     <MESSAGE value="Binary search" />
     <MESSAGE value="Sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorting" />
+    <MESSAGE value="remove unwanted code" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unwanted code" />
   </component>
 </project>
